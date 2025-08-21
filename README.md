@@ -52,7 +52,7 @@ Using Tableau for dashboards and Python (Pandas, Matplotlib, Scikit-learn) for d
 │   └── sales.py                    # ML workflow (data prep + regression)
 │
 ├── tableau/
-│   └── stationery_dashboard.twbx   # Tableau workbook file
+│   └── sales_performance_dashboard.twbx   # Tableau workbook file
 │
 │
 ├── requirements.txt                # Required Python libraries
@@ -62,8 +62,8 @@ Using Tableau for dashboards and Python (Pandas, Matplotlib, Scikit-learn) for d
 **Setup & Installation**
 
 -Clone the repository:
-git clone https://github.com/your-username/stationery-sales-dashboard.git
-cd stationery-sales-dashboard
+git clone https://github.com/ianchaltiwari/Guvi_HCL_project2.git
+cd Guvi_HCL_project2
 
 -Install dependencies:
 pip install -r requirements.txt
